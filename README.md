@@ -1,2 +1,2 @@
 # ruofanliu.github.com
-This is Ms Ruofan Liu's resume website.
+Email: ruofanliu0129@gmail.com / Mobile: (+86)13347431575
