@@ -1,6 +1,6 @@
 ## Education
 
-### Shanghai Jiao Tong University
+### Shanghai Jiao Tong University              09/2017-06/2021
 
 You can use the [editor on GitHub](https://github.com/ruofanliu0129/ruofanliu.github.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
